@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Xiong Zhang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -30,7 +30,7 @@ author:
   location         : "China KunMing"
   employer         : "YNU University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhangxiong@stu.ynu.edu.cn" 
 
   # Academic websites
   academia         : # URL
